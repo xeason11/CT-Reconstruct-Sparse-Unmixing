@@ -1,2 +1,2 @@
 # CT-Reconstruct-Sparse-Unmixing
-Source code of Paper:Extracting Information from Remote Sensing Images of Zhuhai-1 Inland Wetland by Combining Deep Learning and Spectral Unmixing
+Source code of Paper:Mapping Peatlands Combing Deep Learning With Sparse Spectral Unmixing Based on Zhuhai-1 Hyperspectral Images
